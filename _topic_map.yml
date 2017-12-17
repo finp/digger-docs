@@ -29,7 +29,7 @@ Topics:
   - Name: Minimum prerequisites
     File: digger-prereqs
   - Name: macOS prerequisites
-    File: macos-prereqs.adoc
+    File: macos-prereqs
   - Name: Running the installer
     File: run-digger-installer
   - Name: Verify the installation
