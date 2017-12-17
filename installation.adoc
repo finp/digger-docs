@@ -1,0 +1,27 @@
+---
+layout: post
+section: guides
+title: Digger installation guide
+toc_generate: true
+---
+
+// overview
+include::docs/digger/installation/digger-install-intro.adoc[]
+
+// digger prerequisites
+include::docs/digger/installation/digger-prereqs.adoc[]
+
+// macOs prerequisites
+include::docs/digger/installation/macos-prereqs.adoc[]
+
+// Run Digger Installer
+include::docs/digger/installation/run-digger-installer.adoc[]
+
+// verify installation
+include::docs/digger/installation/verify-installation.adoc[]
+
+// list of all variables
+include::docs/digger/installation/installer-variables.adoc[]
+
+// known issues
+include::docs/digger/installation/known-issues.adoc[Known issues]

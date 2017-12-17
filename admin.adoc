@@ -1,0 +1,13 @@
+---
+layout: post
+section: guides
+title: Digger Administration guide
+toc_generate: true
+---
+
+
+include::docs/digger/admin/about-admin-guide.adoc[]
+
+include::docs/digger/admin/installing-jenkins-plugins.adoc[]  
+
+include::docs/digger/admin/digger-nagios-monitoring.adoc[] 

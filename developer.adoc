@@ -1,0 +1,16 @@
+---
+layout: post
+section: guides
+title: Digger developer guide
+toc_generate: true
+---
+
+include::docs/digger/developer/jenkinsfile-overview.adoc[]
+
+include::docs/digger/developer/jenkinsfile-anatomy.adoc[]
+
+include::docs/digger/developer/jenkinsfile-create.adoc[]
+
+include::docs/digger/developer/jenkinsfile-fastlane.adoc[]
+
+include::docs/digger/developer/jenkins-build.adoc[]
