@@ -21,7 +21,7 @@
 # The ordering of the records in this document determines the ordering of the
 # topic groups and topics on the main page.
 ---
-Name: Installing AeroGear Digger
+Name: Installing Build Farm
 Dir: installation
 Topics:  
   - Name: Overview
@@ -39,7 +39,7 @@ Topics:
   - Name: Known issues
     File: known-issues
 ---
-Name: Using Digger
+Name: Using Build Farm
 Dir: developer
 Topics:
   - Name: Overview

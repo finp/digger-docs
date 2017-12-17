@@ -1,10 +1,10 @@
 ---
 digger:
-  name: AeroGear Digger
-  author: AeroGear Team
+  name: Build Farm
+  author: Red Hat
   site: main
   site_name: Home
-  site_url: http://aerogear.org/
+  site_url: http://redhat.com/
   branches:
     master:
       name: Latest
